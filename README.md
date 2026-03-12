@@ -1,6 +1,6 @@
 # React + Vite
 
-some changes
+This is solace - a place for people to connect and relax in their free time.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
