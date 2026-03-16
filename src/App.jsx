@@ -6,6 +6,10 @@ function RoomBubble({ name }) {
 }
 
 function App() {
+  const value = Math.random();
+  if(value < 0.5){
+    return <div>your luck ran out</div> 
+  } 
   return (
     <main>
       <div className="solace-logo">Solace</div>
